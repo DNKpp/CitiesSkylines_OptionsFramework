@@ -40,6 +40,7 @@
     <Compile Include="Attributes\EnumDropDownAttribute.cs" />
     <Compile Include="Attributes\HideConditionAttribute.cs" />
     <Compile Include="Attributes\LabelAttribute.cs" />
+    <Compile Include="Attributes\OptionsAttribute.cs" />
     <Compile Include="Attributes\SliderAttribute.cs" />
     <Compile Include="Attributes\TextFieldAttribute.cs" />
     <Compile Include="Attributes\XmlOptionsAttribute.cs" />
