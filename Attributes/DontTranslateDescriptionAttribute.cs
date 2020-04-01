@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 
-namespace OptionsFramework.Attibutes
+namespace OptionsFramework.Attributes
 {
     [AttributeUsage(AttributeTargets.All)]
     public class DontTranslateDescriptionAttribute : DescriptionAttribute

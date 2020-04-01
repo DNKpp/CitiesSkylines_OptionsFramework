@@ -1,4 +1,4 @@
-﻿namespace OptionsFramework.Attibutes
+﻿namespace OptionsFramework.Attributes
 {
     public struct DropDownEntry<TKey>
     {
