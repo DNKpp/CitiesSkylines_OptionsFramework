@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using ColossalFramework.Plugins;
 using ColossalFramework.UI;
-using OptionsFramework.Attibutes;
+using OptionsFramework.Attributes;
 using ICities;
 using UnityEngine;
 

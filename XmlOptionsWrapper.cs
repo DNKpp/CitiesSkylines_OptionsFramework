@@ -3,7 +3,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 using ColossalFramework.IO;
-using OptionsFramework.Attibutes;
+using OptionsFramework.Attributes;
 using UnityEngine;
 
 namespace OptionsFramework
